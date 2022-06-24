@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Camilo Cardoso 👋
 
  
-- 🔭 Atualmente estou no Grupo Soluuta como Desenvolvedor RPA 
+- 🔭 Atualmente estou no Grupo Solutta como Desenvolvedor RPA 
 - 🌱 Desenvolvendo Robos de folha de pagamento UIPATH
 
 </div>
